@@ -27,7 +27,7 @@ p {
     position: sticky;
     height: 10%;
     width: 100%;
-    background-color: #FFE0E4; /* change the color here of the nav bar here! */
+    background-color: #5D7D98; /* change the color here of the nav bar here! */
     overflow: auto;
     display: flex;
     padding: 10px 0;
@@ -52,7 +52,7 @@ p {
         this will change the color of the text in your nav bar
         when you hover over it. test it out!
     */
-    color: #A46971;
+    color: #B72C2C;
 }
 
 .projectBox {
